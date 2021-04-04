@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- style for header field -->
+    <style name="FieldHeaderTextStyle" parent="@style/Widget.AppCompat.TextView">
+        <item name="android:textSize">18dp</item>
+        <item name="android:textColor">@color/textColor</item>
+    </style>
+</resources>
